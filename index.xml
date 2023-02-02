@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASR</title>
+    <link>https://alfonsoSR.github.io/</link>
+    <description>Recent content on ASR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alfonsoSR.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Euler&#39;s number</title>
+      <link>https://alfonsoSR.github.io/curiosities/euler/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alfonsoSR.github.io/curiosities/euler/</guid>
+      <description>Introduction If you ask someone to define \(\pi\), they will tell you that it is the ratio of the length of a circumference to its radius. If you ask them to define \(e\) though, they may ask you for a piece of paper and a pen, and then write one of the following expresions: $$e = \sum_{n = 0}^{\infty}{\frac{1}{n!}} \hspace{50pt} e = \lim_{x \to 0} \left( 1 + x \right)^{1/x}$$</description>
+    </item>
+    
+  </channel>
+</rss>
