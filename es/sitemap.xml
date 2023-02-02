@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alfonsoSR.github.io/es/</loc>
-    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,32 +12,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://alfonsoSR.github.io/es/"
-                />
-  </url><url>
-    <loc>https://alfonsoSR.github.io/es/curiosities/</loc>
-    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alfonsoSR.github.io/curiosities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alfonsoSR.github.io/es/curiosities/"
-                />
-  </url><url>
-    <loc>https://alfonsoSR.github.io/es/curiosities/euler/</loc>
-    <lastmod>2022-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alfonsoSR.github.io/curiosities/euler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alfonsoSR.github.io/es/curiosities/euler/"
                 />
   </url><url>
     <loc>https://alfonsoSR.github.io/es/categories/</loc>
@@ -51,6 +24,18 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://alfonsoSR.github.io/es/categories/"
+                />
+  </url><url>
+    <loc>https://alfonsoSR.github.io/es/curiosities/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alfonsoSR.github.io/curiosities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alfonsoSR.github.io/es/curiosities/"
                 />
   </url><url>
     <loc>https://alfonsoSR.github.io/es/projects/</loc>
