@@ -1,6 +1,6 @@
 baseURL = "https://alfonsoSR.github.com/"
 languageCode = "es"
-theme = "themes/wiston"
+theme = "themes/wiston/"
 themesDir = ""
 title = "Cuentos para no niños"
 paginate = 6
