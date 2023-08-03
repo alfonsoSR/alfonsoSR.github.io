@@ -1,0 +1,19 @@
+{
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/alfonso_sr0",
+            "image": "images/social/twitter.svg"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/alfonsoSR",
+            "image": "images/social/github.svg"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/alfonso-sr",
+            "image": "images/social/linkedin.svg"
+        }
+    ]
+}
