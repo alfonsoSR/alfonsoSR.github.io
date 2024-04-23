@@ -1,4 +1,4 @@
-baseURL = "https://alfonsoSR.github.com/"
+baseURL = "https://alfonsoSR.github.io/"
 languageCode = "es"
 theme = "./themes/wiston/"
 themesDir = ""
@@ -46,18 +46,18 @@ unsafe = true
 xhtml = false
 
 [menu]
-[[menu.main]]
-identifier = 'home'
-name = 'Home'
-url = '/'
-weight = 1
+# [[menu.main]]
+# identifier = 'home'
+# name = 'Home'
+# url = '/'
+# weight = 1
 [[menu.main]]
 name = "Cuentos"
 identifier = "cuentos"
 url = "/posts/"
 weight = 2
 [[menu.main]]
-name = "Quién soy"
+name = "Qué es esto?"
 identifier = "about"
 weight = 3
 url = "/about/"
